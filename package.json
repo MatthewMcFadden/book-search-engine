@@ -15,14 +15,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:arosenkranz/googlebooks-app.git"
+    "url": "https://github.com/MatthewMcFadden/ReactPortfolio"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "apollo": "^2.31.0",
-    "if-env": "^1.0.4"
+    "if-env": "^1.0.4",
+    "react-scripts": "^3.4.3"
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
