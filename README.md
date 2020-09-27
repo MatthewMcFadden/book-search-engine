@@ -1,7 +1,7 @@
 # Book Search Engine
 Using Google Books API users can search for, view, save, and delete their favorite books by using this Book Search application. 
 
-[Deployed Site](https://book-search14.herokuapp.com/)
+### [Deployed Site](https://book-search14.herokuapp.com/)
 
 ![Book Search Engine](book-search-demo-01.gif)
 
