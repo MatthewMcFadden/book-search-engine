@@ -3,7 +3,7 @@ Using Google Books API users can search for, view, save, and delete their favori
 
 ![Book Search Engine](book-search-demo-01.gif)
 
-[Deployed Site](https://BookSearch14.herokuapp.com/)
+[Deployed Site](https://book-search14.herokuapp.com/)
 
 ## Technologies used
 * React
