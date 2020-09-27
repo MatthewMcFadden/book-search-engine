@@ -1,6 +1,7 @@
 {
   "name": "googlebooks-app",
   "version": "1.0.0",
+  "homepage": "https://matthewmcfadden.github.io/ReactPortfolio/",
   "description": "",
   "main": "server/server.js",
   "scripts": {
@@ -8,7 +9,9 @@
     "start:prod": "cd server && npm start",
     "start:dev": "concurrently \"cd server && npm run watch\" \"cd client && npm start\"",
     "install": "cd server && npm i && cd ../client && npm i",
-    "heroku-postbuild": "cd client && npm run build"
+    "heroku-postbuild": "cd client && npm run build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
